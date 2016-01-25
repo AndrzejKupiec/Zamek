@@ -1,0 +1,2 @@
+# Zamek
+Zamek do karmomatu
